@@ -70,8 +70,8 @@ body, html{
 }
 
 @media(max-width: 568px){
-	.pimg1, .pimg2, .pimg3{
-		
+	.ptext{
+		font-size: 12px;
 	}
 }
 
